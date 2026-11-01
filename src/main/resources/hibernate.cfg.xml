@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/nucleus_db</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.connection.password">Hell2456j.</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <property name="hibernate.show_sql">true</property>
+        <property name="hibernate.format_sql">true</property>
+        <property name="hibernate.physical_naming_strategy">org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy</property>
+        <mapping class="com.nuv.nucleus.model.User"/>
+        <mapping class="com.nuv.nucleus.model.Post"/>
+        <mapping class="com.nuv.nucleus.model.Comment"/>
+        <mapping class="com.nuv.nucleus.model.LikePost"/>
+        <mapping class="com.nuv.nucleus.model.Resource"/>
+        <mapping class="com.nuv.nucleus.model.Notice"/>
+        <mapping class="com.nuv.nucleus.model.Event"/>
+        <mapping class="com.nuv.nucleus.model.Club"/>
+        <mapping class="com.nuv.nucleus.model.ClubMember"/>
+        <mapping class="com.nuv.nucleus.model.Appointment"/>
+        <mapping class="com.nuv.nucleus.model.ProjectRequest"/>
+        <mapping class="com.nuv.nucleus.model.CampusIssue"/>
+        <mapping class="com.nuv.nucleus.model.Achievement"/>
+    </session-factory>
+</hibernate-configuration>

@@ -1,0 +1,5 @@
+body { background-color: #f8f9fa; }
+.card { border: none; border-radius: 10px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); }
+.navbar-brand { letter-spacing: 1px; }
+.table { background-color: white; }
+textarea { resize: none; }

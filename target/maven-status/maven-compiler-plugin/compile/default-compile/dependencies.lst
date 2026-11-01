@@ -1,0 +1,9 @@
+classpath:C:\Users\Hetansh\.m2\repository\jakarta\servlet\jakarta.servlet-api\6.0.0\jakarta.servlet-api-6.0.0.jar	347613:1793543514055
+classpath:C:\Users\Hetansh\.m2\repository\org\hibernate\orm\hibernate-core\6.4.4.Final\hibernate-core-6.4.4.Final.jar	11572645:1793543522520
+classpath:C:\Users\Hetansh\.m2\repository\jakarta\persistence\jakarta.persistence-api\3.1.0\jakarta.persistence-api-3.1.0.jar	165250:1793543514625
+classpath:C:\Users\Hetansh\.m2\repository\jakarta\transaction\jakarta.transaction-api\2.0.1\jakarta.transaction-api-2.0.1.jar	28607:1648723059000
+classpath:C:\Users\Hetansh\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar	2495536:1793543518408
+classpath:C:\Users\Hetansh\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar	1875070:1793543518519
+classpath:C:\Users\Hetansh\.m2\repository\jakarta\servlet\jsp\jstl\jakarta.servlet.jsp.jstl-api\3.0.0\jakarta.servlet.jsp.jstl-api-3.0.0.jar	46041:1646360232000
+classpath:C:\Users\Hetansh\.m2\repository\jakarta\el\jakarta.el-api\5.0.0\jakarta.el-api-5.0.0.jar	87908:1793543517052
+classpath:C:\Users\Hetansh\.m2\repository\org\glassfish\web\jakarta.servlet.jsp.jstl\3.0.1\jakarta.servlet.jsp.jstl-3.0.1.jar	3711043:1793543519975
